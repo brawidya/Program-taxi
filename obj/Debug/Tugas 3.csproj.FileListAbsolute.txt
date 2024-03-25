@@ -1,0 +1,7 @@
+C:\23.11.5690\Tugas 3\Tugas 3\bin\Debug\Tugas 3.exe.config
+C:\23.11.5690\Tugas 3\Tugas 3\bin\Debug\Tugas 3.exe
+C:\23.11.5690\Tugas 3\Tugas 3\bin\Debug\Tugas 3.pdb
+C:\23.11.5690\Tugas 3\Tugas 3\obj\Debug\Tugas 3.csproj.AssemblyReference.cache
+C:\23.11.5690\Tugas 3\Tugas 3\obj\Debug\Tugas 3.csproj.CoreCompileInputs.cache
+C:\23.11.5690\Tugas 3\Tugas 3\obj\Debug\Tugas 3.exe
+C:\23.11.5690\Tugas 3\Tugas 3\obj\Debug\Tugas 3.pdb
